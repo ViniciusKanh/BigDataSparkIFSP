@@ -1,6 +1,9 @@
 # Projeto de Sistemas Embarcados - Análise de Big Data Distribuída 🚀
 
+![Capa do Projeto](https://github.com/ViniciusKanh/BigDataSparkIFSP/raw/main/Big-Data-analysis.png)
+
 Bem-vindo ao repositório do projeto de Sistemas Embarcados do IFSP, focado na análise de Big Data de forma distribuída! 👋
+
 
 ![GitHub](https://img.shields.io/github/license/ViniciusKanh/BigDataSparkIFSP)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ViniciusKanh/BigDataSparkIFSP)
